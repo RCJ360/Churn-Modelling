@@ -1,4 +1,4 @@
-# Enhancing Telecom Services with Predictive Churn Analysis
+# Predictive Churn Analysis for Telecom Services
 
 ## Introduction:
 
